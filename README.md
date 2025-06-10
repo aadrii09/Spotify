@@ -19,7 +19,7 @@ This project is a recreation of the popular music streaming service Spotify, imp
 
 ## 🛠️ Technologies Used
 
-* **Framework:** Angular 17+
+* **Framework:** Angular 15+
 * **Language:** TypeScript
 * **Styling:** SCSS/CSS3
 * **State Management:** Angular Services/RxJS
